@@ -1,6 +1,6 @@
 # Propper
 
-[![gcc](https://github.com/tancaj/propper/actions/workflows/gcc.yml/badge.svg?branch=master)](https://github.com/tancaj/propper/actions/workflows/gcc.yml) [![msvc](https://github.com/tancaj/propper/actions/workflows/msvc.yml/badge.svg)](https://github.com/tancaj/propper/actions/workflows/msvc.yml)
+[![gcc](https://github.com/tancaj/propper/actions/workflows/gcc.yml/badge.svg)](https://github.com/tancaj/propper/actions/workflows/gcc.yml) [![msvc](https://github.com/tancaj/propper/actions/workflows/msvc.yml/badge.svg)](https://github.com/tancaj/propper/actions/workflows/msvc.yml)
 
 Propper is a small C++20 header only library for converting and validating data between JSON and structs/classes.
 
